@@ -14,7 +14,7 @@ class Movie:
     def average_rating(self):
         pass
 
-    def highest_rating(self):
+    def highest_review(self):
         pass
 
 
